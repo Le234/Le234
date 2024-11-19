@@ -34,9 +34,13 @@ Olá, seja bem vindo!, eu sou o Leandro Melo Oliveria. Técnico em Desenvolvimen
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
+
+
   
 ---  
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=Le234&label=Profile%20Views&color=5&icon=0&pretty=false" />
+</a>
 
-[![](https://visitcount.itsvg.in/api?id=Le234&icon=5&color=10)](https://visitcount.itsvg.in)
-
+[![](https://visitcount.itsvg.in/api?id=Le234&label=Profile%20Views&color=5&icon=0&pretty=false)](https://visitcount.itsvg.in)
   
