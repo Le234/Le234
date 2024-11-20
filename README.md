@@ -38,9 +38,6 @@ Olá, seja bem vindo!, eu sou o Leandro Melo Oliveria. Técnico em Desenvolvimen
 
   
 ---  
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=Le234&label=Profile%20Views&color=5&icon=0&pretty=false" />
-</a>
 
 [![](https://visitcount.itsvg.in/api?id=Le234&label=Profile%20Views&color=5&icon=0&pretty=false)](https://visitcount.itsvg.in)
   
