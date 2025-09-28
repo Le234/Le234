@@ -1,5 +1,4 @@
 ## 💫 About Me:<br>
-Hello World! 🌎<br>
 Técnico em Desenvolvimento de Sistemas para a construção de software. Trabalho com o ambiente de desenvolvimento para analisar, codificar e depurar programas, efetuando testes de qualidade, projetando e documentando informações que atendam aos requisitos do negócio. Possuo habilidades adequadas para projetar e implementar aplicações de sistemas utilizando técnicas de modelagem relacionais, programação orientada a objeto, diagramas da UML, entidade e ORM, cliente/servidor, padrão camadas: controller, service, repository. Aplico os fundamentos da segurança da informação de forma a permitir a identificação de ameaças e o comportamento preventivo. Efetuo consultas SQL para manipulação e gerenciamento de dados de modo a contribuir para tomada de decisão. Também utilizo a tecnologia da informação para fornecer suporte a soluções administrativas.<br>
 
 - 🔭 Desenvolvendo o back-end
