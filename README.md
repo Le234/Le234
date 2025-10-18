@@ -1,6 +1,8 @@
 ## 💫 About Me:<br>
 Técnico em Desenvolvimento de Sistemas para a construção de software. Trabalha com o ambiente de desenvolvimento para analisar, codificar e depurar programas, efetuando testes de qualidade, projetando e documentando informações que atendam aos requisitos do negócio. Possui habilidades adequadas para projetar e implementar aplicações de sistemas utilizando técnicas de modelagem relacionais, programação orientada a objeto, diagramas da UML, entidade e ORM, cliente/servidor, padrão camadas: controller, service, repository. Aplica os fundamentos da segurança da informação de forma a permitir a identificação de ameaças e o comportamento preventivo. Efetua consultas SQL para manipulação e gerenciamento de dados de modo a contribuir para tomada de decisão. Também utiliza a tecnologia da informação para fornecer suporte a soluções administrativas.<br>
 
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+
 - 🔭 Desenvolvendo o back-end
 - 🌱 Estudando PHP Laravel, Java Spring e C# Mobile...
 - 😄 Pronouns: Ele<br>
