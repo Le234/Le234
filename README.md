@@ -34,6 +34,9 @@ Técnico em Desenvolvimento de Sistemas para a construção de software. Trabalh
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
+<div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="leandro-melo-oliveira-63b85234" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/leandro-melo-oliveira-63b85234?trk=profile-badge">Leandro Melo Oliveira</a></div>
+              
+
 
   
 ---  
